@@ -1,0 +1,66 @@
+
+body{padding-top:80px;}
+.jumbotron{margin-top:12px; padding-top:30px; padding-bottom:20px; color: #2C3136; }
+
+td span:last-of-type{display:none;}
+
+.alert { background-color: #D84849;
+		color: #F1F1F1;
+		font-style: italic;
+	}
+
+
+.table { background-color: #C1C1C1;
+		color: #2C3136 ; }
+
+
+	body {
+		background-color: #2C3136;
+		color: #F1F1F1; 
+	}
+
+	h1 {
+		color: #D84849;
+	}
+
+
+	a:link {
+		color: #D84849;
+	}
+	
+
+	.navbar a:hover  {
+		background-color: #D84849;
+		color: white;
+		font-style: italic;
+		font-weight:bold;
+	}
+
+	
+	.navbar a:active {
+		background-color: #F15A6B;
+	}
+
+
+
+	a:visited {
+			color: #D84849;
+		}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+body
+{font-weight: 400;}
+
+
+		
